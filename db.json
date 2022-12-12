@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "name": "Advil PM Caplets",
+            "description": "Easy-to-swallow sleep aid that relieves nighttime aches, pains, and joint pain.",
+            "count": 120,
+            "price": "$21.12",
+            "category": "tablets",
+            "fsa": true
+        },
+        {
+            "name": "Aleve Pain Relief Tablets",
+            "description": "Pain and fever reducer",
+            "count": 90,
+            "price": "$12.66",
+            "category": "tablets",
+            "fsa": true
+        },
+        {
+            "name": "One A Day Women's Complete Multivitamin Tablets",
+            "description": "Women's daily multivitamin designed specially for those with concerns of bone health",
+            "count": 100,
+            "price": "$11.40",
+            "category": "tablets",
+            "fsa": false
+        },
+        {
+            "name": "Aveeno Daily Moisturizing Lotion",
+            "description": "Gentle, non-greasy moisturizing lotion",
+            "size": "12 oz",
+            "price" : "$8.38",
+            "category": "skincare",
+            "fsa": false
+        },
+        {
+            "name": "CeraVe Daily Moisturizing Lotion",
+            "description": "Oil-free daily moisturizing lotion",
+            "size": "12 oz",
+            "price" : "$14.31",
+            "category": "skincare",
+            "fsa": false
+        }
+    ]
+  }
